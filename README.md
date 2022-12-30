@@ -1,4 +1,4 @@
-#A break out game called XmasBreak
+# A break out game called XmasBreak
 
 ## Lessons learned
 
