@@ -5,6 +5,7 @@ You can not run this program because parts of the code has been removed due to p
 
 # Lessons learned
 Programming language used: Python
+
 Object Oriented Programming: Incapsulation, classes, inheritence, plymorphy. Design, implement, debug and measure performance in basic OOP. 
 Programming of basic graphic-based games (pygame).
 
