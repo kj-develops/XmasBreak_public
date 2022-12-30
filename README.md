@@ -3,8 +3,8 @@ A break-out game in a christmas edition. My very first game ever made! The ball 
 
 You can not run this program because parts of the code has been removed due to privacy reasons.
 
-# Object Oriented Programming
+# Lessons learned
 Programming language used: Python
-Incapsulation, classes, inheritence, plymorphy. Design, implement, debug and measure performance in basic OOP. 
+Object Oriented Programming: Incapsulation, classes, inheritence, plymorphy. Design, implement, debug and measure performance in basic OOP. 
 Programming of basic graphic-based games (pygame).
 
